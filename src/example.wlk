@@ -5,4 +5,10 @@ object wollok {
 	}
 }
 
-///asdsa  
+//asdsa  
+//asdasd 
+
+
+object maquina  {
+	
+}
